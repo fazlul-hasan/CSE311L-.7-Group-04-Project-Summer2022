@@ -1,0 +1,172 @@
+//Styles.css
+
+
+
+
+body
+{
+	background:#FFFAFA
+	min-height: 1000vh;
+	border-style:outset;
+}
+.info
+{	text-align:center;
+	background-color:gray;
+	color:black;
+	font-weight: bold;
+}
+
+.info1
+{
+	text-align:left;
+	color:black;
+}
+.picture
+{
+	text-align:right;
+}
+.info2
+{
+	text-align:left;
+	color:black;
+	
+}
+.info3
+{
+	text-align:left;
+	color:black;
+	
+}
+.info4
+{
+	text-align:left;
+	color:black;
+	
+}
+.info5
+{
+	text-align: left;
+	color: black;
+}
+.info6
+{
+	text-align: left;
+	color: black;
+}
+.info7
+{
+	text-align: left;
+	color: black;
+}
+
+
+
+
+
+
+
+
+//CV.html
+
+
+<html>
+<head>
+		
+		<title>My Personal Resume</title>
+		<link rel = "stylesheet" type = "text/css" href = "Styles.css">
+</head>
+<body>
+<div class = "info">
+
+	<h1><b>Md.Fazlul Hasan</h1></div>
+<div class = "info1">
+<address>
+	<h3>Profession: Database Developer</h3><h3>Address: Bashundhara,Dhaka</h3>
+	
+	<h3>E-Mail: fazlulhasan2001@gmail.com</h3>
+	<h3>Phone Number: +8801633-506864</h3>
+	<hr style="height:2px;border-width:0;color:powderblue;background-color:powderblue">
+	</address>
+</div>
+
+<div class = "info3">
+<address>
+
+
+<h2><b><u>ABOUT ME</b></u></h2>
+<p> I am Md.Fazlul Hasan.Currently I am saudying at North South Univesity and it is my 9th semester.I have participated in some programing contest and solved different
+problems.My ambition is to do a job in a IT sector as a Database Developer.</p>
+<hr style="height:2px;border-width:0;color:powderblue;background-color:powderblue">
+</address>
+
+<div class = "info2">
+<address>
+	<h2><b><u>EDUCATION QUALIFICATION</b></u></h2>
+	<h3 style="color:gray;"><b><u>North South University</b></u>
+	<h4>Year: 2020-2024</h3>
+	<h4> CGPA:2.95</h3>
+	<h3 style="color:gray;"><b><u>BCIC COLLEGE</b></u>
+	<h4>Year: 2017-2019</h3>
+	<h4> GPA:5.00</h3>
+	<h3 style="color:gray;"><b><u>Ikkshu Gabeshwana High School</b></u>
+	<h4>Year: 2006-2017</h3>
+	<h4 > <b>GPA</b>:5.00</h4>
+	<hr style="height:2px;border-width:0;color:powderblue;background-color:powderblue">
+</address>	
+
+<div class = "info6">
+<address>
+<h2><b><u> Addtional Skills</b></u></h2>
+<ul>
+<li>Language Acquisition:C,C++,JAVA,HTML,CSS</li>
+<li>MS Word,MS Powerpoint,MS Excel</li>
+<li>Management,Leadership,Planning</li>
+<li>Problem Solving</li>
+</ul>
+<hr style="height:2px;border-width:0;color:powderblue;background-color:powderblue">
+</address>
+
+
+<div class = "info7">
+<address>
+<h2><b><u>Experience</b></u></h2>
+<ul>
+<li>Participated in different Programing Contest</li>
+<li>Created few Projects:</li>
+<ol>
+<li>Bouncing Ball Games using C</li>
+<li>Metro Rail Management System using Java</li>
+</ol>
+</ul>
+<hr style="height:2px;border-width:0;color:powderblue;background-color:powderblue">
+</address>
+
+
+
+
+
+
+
+<div class = "info4">
+<address>
+<h2><b><u>HOBBIES</b></u></h2>
+<ul>
+<li>Cricket</li>
+<li>Badminton</li>
+<li>MMA</li>
+<li>Travelling</li>   
+</ul>
+<hr style="height:2px;border-width:0;color:powderblue;background-color:powderblue">
+</address>
+
+
+<div class = "info5">
+<address>
+	<h2><b><u>REFRENCES</b></u></h2>
+	<h3><b>Wasima Jahan</h3>
+	<h4> Manager,Bank Asia,Ishwardi Branch</h4>
+	</div>
+</address>
+</div>
+</body>
+</html>
